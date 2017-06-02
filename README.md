@@ -4,16 +4,19 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+June 2, 2017
 
 ## Student Name:  
-(First and Last Name)
+Breann Bricketto
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+This project was to learn how to create a GitHub account and how to sync it with my cloud 9 account. I also edited the index.html file with my own text and images.
+
+#View Project:
+https://breannbricketto.github.io/lesson3_VersionControl2/
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned about version control systems and how they work.
+2. I learned how to set up a git account and how to create a repository.
+3. I learned how to upload my files to my Git account.
 
